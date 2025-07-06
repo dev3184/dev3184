@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devbhalani_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbhalani_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dev bhalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev bhalani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-bhalani-6b266a26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev bhalani" height="30" width="40" /></a>
 <a href="https://instagram.com/devbhalani._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devbhalani._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dev3184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev3184" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@devbhalani3184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@devbhalani3184" height="30" width="40" /></a>
