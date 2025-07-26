@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev3184&label=Profile%20views&color=0e75b6&style=flat" alt="dev3184" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev3184" alt="dev3184" /></a> </p>
 
 
 <p align="left"> <a href="https://twitter.com/devbhalani_" target="blank"><img src="https://img.shields.io/twitter/follow/devbhalani_?logo=twitter&style=for-the-badge" alt="devbhalani_" /></a> </p>
