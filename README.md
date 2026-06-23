@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **devbhalani3184@gmail.com**
 
-- 📄 Resume https://drive.google.com/file/d/1FrM4aO_HbMWx6ERon7yijSmVFb9Mo8KI/view?usp=drive_link
+- 📄 Resume [https://drive.google.com/file/d/1FrM4aO_HbMWx6ERon7yijSmVFb9Mo8KI/view?usp=drive_link](https://drive.google.com/file/d/1vlfB5tjshbKW_kzOXmN70RWYsMaXYW5f/view?usp=sharing)
 
 - ⚡ Fun fact **I think semicolons have feelings too.**
 
